@@ -1,10 +1,10 @@
 # CT-image-segmentaion
-Spleen tumor segmentation using MONAI platfrom 
+Spleen tumour segmentation using MONAI platform 
 
 ## hyperparameters_tuning folder 
-Contains the process of grid search for hyperparameters tuning for each model and the best hyperparameters
+Contains the process of grid search for hyper parameters tuning for each model and the best hyper parameters
 
-## models_training forlder 
+## models_training folder 
 Contains the training process for three different models based on the grid search
 
 ## hard_voting_model.ipynb
